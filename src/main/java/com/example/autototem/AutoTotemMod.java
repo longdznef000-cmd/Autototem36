@@ -60,4 +60,4 @@ public class AutoTotemMod implements ModInitializer {
             LOGGER.info("Khong co totem trong hotbar, da doi ten item slot 1 thanh longg210 cho {}", player.getName().getString());
         }
     }
-        } ra
+}
